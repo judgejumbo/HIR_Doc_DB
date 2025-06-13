@@ -18,10 +18,10 @@ import {
 const mockDocuments = [
   {
     id: "1",
-    title: "Meeting Minutes",
+    title: "Minutes 12 June",
     type: "doc",
     lastModified: "2023-10-15T14:30:00Z",
-    url: "https://docs.google.com/document",
+    url: "https://docs.google.com/document/d/18hZNU4u7mI6ljL4LRfk8BRViJaDTfgwHSYfCJR6LsgA/edit?usp=sharing",
     thumbnail:
       "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?w=300&q=80",
   },
