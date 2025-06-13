@@ -20,19 +20,19 @@ const mockDocuments = [
     id: "1",
     title: "Minutes 12 June",
     type: "doc",
-    lastModified: "2023-10-15T14:30:00Z",
+    lastModified: "2025-10-06T14:30:00Z",
     url: "https://docs.google.com/document/d/18hZNU4u7mI6ljL4LRfk8BRViJaDTfgwHSYfCJR6LsgA/edit?usp=sharing",
     thumbnail:
       "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?w=300&q=80",
   },
   {
     id: "2",
-    title: "Budget Forecast 2024",
+    title: "Project Plan 2025",
     type: "sheet",
-    lastModified: "2023-10-12T09:15:00Z",
-    url: "https://docs.google.com/spreadsheets",
+    lastModified: "2025-06-13T09:15:00Z",
+    url: "https://docs.google.com/spreadsheets/d/16Xjzf_INUMFqFSXd1yMbGFgCkjd1o0EbxAO6ddd9hxY/edit?usp=sharing",
     thumbnail:
-      "https://images.unsplash.com/photo-1554224155-8d04cb21ed1c?w=300&q=80",
+      "https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU",
   },
   {
     id: "3",
