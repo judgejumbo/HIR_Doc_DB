@@ -32,38 +32,38 @@ const mockDocuments = [
     lastModified: "2025-06-13T09:15:00Z",
     url: "https://docs.google.com/spreadsheets/d/16Xjzf_INUMFqFSXd1yMbGFgCkjd1o0EbxAO6ddd9hxY/edit?usp=sharing",
     thumbnail:
-      "https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU",
+      "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=300&q=80",
   },
   {
     id: "3",
-    title: "Project Proposal",
+    title: "Working Group Brief",
     type: "pdf",
-    lastModified: "2023-10-10T16:45:00Z",
-    url: "https://drive.google.com/file",
+    lastModified: "2025-06-06T16:45:00Z",
+    url: "https://drive.google.com/file/d/1F1sBQFW3QdXqSbNweomAbqKE7Zdbe7Yf/view?usp=sharing",
     thumbnail:
       "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&q=80",
   },
   {
     id: "4",
-    title: "Marketing Strategy",
+    title: "EOI DRAFT",
     type: "doc",
-    lastModified: "2023-10-08T11:20:00Z",
-    url: "https://docs.google.com/document",
+    lastModified: "2025-12-06T11:20:00Z",
+    url: "https://docs.google.com/document/d/1kzm8kFqg2AhV_a_UIgzH8cQzJEDa89JRNDJAg2azuik/edit?usp=sharing",
     thumbnail:
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&q=80",
   },
   {
     id: "5",
-    title: "Q3 Financial Report",
+    title: "Body Corp Potentials",
     type: "sheet",
-    lastModified: "2023-10-05T15:10:00Z",
-    url: "https://docs.google.com/spreadsheets",
+    lastModified: "2025-12-06T15:10:00Z",
+    url: "https://docs.google.com/spreadsheets/d/1719kcZt0HAEeG6-kZc_T-uzzxIX9Lgo2GyesBzAtETI/edit?usp=sharing",
     thumbnail:
       "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=300&q=80",
   },
   {
     id: "6",
-    title: "Resort Brochure",
+    title: "Placeholder",
     type: "pdf",
     lastModified: "2023-10-03T10:30:00Z",
     url: "https://drive.google.com/file",
@@ -72,7 +72,7 @@ const mockDocuments = [
   },
   {
     id: "7",
-    title: "Staff Handbook",
+    title: "Placeholder",
     type: "doc",
     lastModified: "2023-09-28T14:00:00Z",
     url: "https://docs.google.com/document",
@@ -81,7 +81,7 @@ const mockDocuments = [
   },
   {
     id: "8",
-    title: "Event Calendar",
+    title: "Placeholder",
     type: "sheet",
     lastModified: "2023-09-25T09:45:00Z",
     url: "https://docs.google.com/spreadsheets",
@@ -90,7 +90,7 @@ const mockDocuments = [
   },
   {
     id: "9",
-    title: "Maintenance Schedule",
+    title: "Placeholder",
     type: "pdf",
     lastModified: "2023-09-20T16:15:00Z",
     url: "https://drive.google.com/file",
@@ -99,7 +99,7 @@ const mockDocuments = [
   },
   {
     id: "10",
-    title: "Guest Feedback Analysis",
+    title: "Placeholder",
     type: "doc",
     lastModified: "2023-09-18T11:50:00Z",
     url: "https://docs.google.com/document",
@@ -108,7 +108,7 @@ const mockDocuments = [
   },
   {
     id: "11",
-    title: "Inventory List",
+    title: "Placeholder",
     type: "sheet",
     lastModified: "2023-09-15T14:20:00Z",
     url: "https://docs.google.com/spreadsheets",
@@ -117,7 +117,7 @@ const mockDocuments = [
   },
   {
     id: "12",
-    title: "Emergency Procedures",
+    title: "Placeholder",
     type: "pdf",
     lastModified: "2023-09-10T10:00:00Z",
     url: "https://drive.google.com/file",
